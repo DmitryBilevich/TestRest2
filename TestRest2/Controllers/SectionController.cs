@@ -13,5 +13,10 @@ namespace TestRest2.Controllers
         {
             return "Name";
         }
+
+        public int GetNum()
+        {
+            return 4;
+        }
     }
 }
