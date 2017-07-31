@@ -1,0 +1,238 @@
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\ApplicationInsights.config
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\roslyn\csc.exe
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\roslyn\csc.exe.config
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\roslyn\csc.rsp
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\roslyn\csi.exe
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\roslyn\csi.rsp
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\roslyn\System.AppContext.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\roslyn\System.Collections.Immutable.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\roslyn\System.IO.FileSystem.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\roslyn\vbc.exe
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\roslyn\vbc.exe.config
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\roslyn\vbc.rsp
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\roslyn\VBCSCompiler.exe
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\roslyn\VBCSCompiler.exe.config
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\TestRest2.dll.config
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\TestRest2.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\TestRest2.pdb
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\Antlr3.Runtime.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\Microsoft.AI.Web.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\Microsoft.AI.WindowsServer.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\Microsoft.ApplicationInsights.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\Microsoft.Web.Infrastructure.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\Newtonsoft.Json.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\System.Net.Http.Formatting.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\System.Web.Helpers.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\System.Web.Http.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\System.Web.Http.WebHost.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\System.Web.Mvc.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\System.Web.Optimization.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\System.Web.Razor.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\System.Web.WebPages.Deployment.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\System.Web.WebPages.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\System.Web.WebPages.Razor.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\WebGrease.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\WebStoreData.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\EntityFramework.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\Newtonsoft.Json.xml
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\System.Net.Http.Formatting.xml
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\System.Web.Helpers.xml
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\System.Web.Http.xml
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\System.Web.Http.WebHost.xml
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\System.Web.Mvc.xml
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\System.Web.Optimization.xml
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\System.Web.Razor.xml
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\System.Web.WebPages.xml
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\System.Web.WebPages.Deployment.xml
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\System.Web.WebPages.Razor.xml
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\Antlr3.Runtime.pdb
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\WebStoreData.pdb
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\WebStoreData.dll.config
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\Microsoft.ApplicationInsights.xml
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\Microsoft.AI.WindowsServer.xml
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\Microsoft.AI.Web.xml
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\EntityFramework.xml
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\obj\Debug\TestRest2.csprojResolveAssemblyReference.cache
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\obj\Debug\TestRest2.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\obj\Debug\TestRest2.pdb
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\EntityFramework.SqlServer.dll
+c:\users\dmitr\documents\visual studio 2017\Projects\TestRest2\TestRest2\bin\EntityFramework.SqlServer.xml
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\ApplicationInsights.config
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\roslyn\csc.exe
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\roslyn\csc.exe.config
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\roslyn\csc.rsp
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\roslyn\csi.exe
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\roslyn\csi.rsp
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\roslyn\System.AppContext.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\roslyn\System.Collections.Immutable.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\roslyn\System.IO.FileSystem.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\roslyn\System.Reflection.Metadata.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\roslyn\vbc.exe
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\roslyn\vbc.exe.config
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\roslyn\vbc.rsp
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\roslyn\VBCSCompiler.exe
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\roslyn\VBCSCompiler.exe.config
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\TestRest2.dll.config
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\TestRest2.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\TestRest2.pdb
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\Antlr3.Runtime.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\EntityFramework.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\EntityFramework.SqlServer.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\Microsoft.AI.DependencyCollector.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\Microsoft.AI.Web.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\Microsoft.AI.WindowsServer.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\Microsoft.ApplicationInsights.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\Microsoft.Web.Infrastructure.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\Newtonsoft.Json.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\System.Net.Http.Formatting.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\System.Web.Helpers.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\System.Web.Http.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\System.Web.Http.WebHost.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\System.Web.Mvc.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\System.Web.Optimization.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\System.Web.Razor.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\System.Web.WebPages.Deployment.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\System.Web.WebPages.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\System.Web.WebPages.Razor.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\WebGrease.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\WebStoreData.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\EntityFramework.xml
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\EntityFramework.SqlServer.xml
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\Newtonsoft.Json.xml
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\System.Net.Http.Formatting.xml
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\System.Web.Helpers.xml
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\System.Web.Http.xml
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\System.Web.Http.WebHost.xml
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\System.Web.Mvc.xml
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\System.Web.Optimization.xml
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\System.Web.Razor.xml
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\System.Web.WebPages.xml
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\System.Web.WebPages.Deployment.xml
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\System.Web.WebPages.Razor.xml
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\Antlr3.Runtime.pdb
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\WebStoreData.pdb
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\WebStoreData.dll.config
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\Microsoft.ApplicationInsights.xml
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\Microsoft.AI.DependencyCollector.xml
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\Microsoft.AI.WindowsServer.xml
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\bin\Microsoft.AI.Web.xml
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\obj\Debug\TestRest2.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\obj\Debug\TestRest2.dll
+E:\Visual Studio 2017 Project\TestRest2\TestRest2\obj\Debug\TestRest2.pdb
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\ApplicationInsights.config
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\roslyn\csc.exe
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\roslyn\csc.exe.config
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\roslyn\csc.rsp
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\roslyn\csi.exe
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\roslyn\csi.rsp
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\roslyn\System.AppContext.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\roslyn\System.Collections.Immutable.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\roslyn\System.IO.FileSystem.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\roslyn\System.Reflection.Metadata.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\roslyn\vbc.exe
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\roslyn\vbc.exe.config
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\roslyn\vbc.rsp
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\roslyn\VBCSCompiler.exe
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\roslyn\VBCSCompiler.exe.config
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\TestRest2.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\TestRest2.pdb
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\Antlr3.Runtime.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\EntityFramework.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\EntityFramework.SqlServer.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\Microsoft.AI.Agent.Intercept.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\Microsoft.AI.DependencyCollector.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\Microsoft.AI.Web.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\Microsoft.AI.WindowsServer.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\Microsoft.ApplicationInsights.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\Microsoft.Web.Infrastructure.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\Newtonsoft.Json.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\System.Net.Http.Formatting.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\System.Web.Helpers.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\System.Web.Http.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\System.Web.Http.WebHost.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\System.Web.Mvc.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\System.Web.Optimization.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\System.Web.Razor.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\System.Web.WebPages.Deployment.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\System.Web.WebPages.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\System.Web.WebPages.Razor.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\WebGrease.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\WebStoreData.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\EntityFramework.xml
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\EntityFramework.SqlServer.xml
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\Newtonsoft.Json.xml
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\System.Net.Http.Formatting.xml
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\System.Web.Helpers.xml
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\System.Web.Http.xml
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\System.Web.Http.WebHost.xml
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\System.Web.Mvc.xml
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\System.Web.Optimization.xml
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\System.Web.Razor.xml
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\System.Web.WebPages.xml
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\System.Web.WebPages.Deployment.xml
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\System.Web.WebPages.Razor.xml
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\Antlr3.Runtime.pdb
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\WebStoreData.pdb
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\Microsoft.ApplicationInsights.xml
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\Microsoft.AI.DependencyCollector.xml
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\Microsoft.AI.WindowsServer.xml
+E:\VisualStudio2017Project\TestRest2\TestRest2\bin\Microsoft.AI.Web.xml
+E:\VisualStudio2017Project\TestRest2\TestRest2\obj\Debug\TestRest2.csprojResolveAssemblyReference.cache
+E:\VisualStudio2017Project\TestRest2\TestRest2\obj\Debug\TestRest2.dll
+E:\VisualStudio2017Project\TestRest2\TestRest2\obj\Debug\TestRest2.pdb
