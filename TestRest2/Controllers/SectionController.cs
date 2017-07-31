@@ -9,5 +9,9 @@ namespace TestRest2.Controllers
 {
     public class SectionController : Controller
     {
+        public string GetName()
+        {
+            return "Name";
+        }
     }
 }
